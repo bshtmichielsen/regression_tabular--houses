@@ -1,1 +1,3 @@
-# tabular_regression--houses
+# House price prediction using regression and tabular data
+
+This repo contains a starting point notebook for using regression models with PyTorch Lightning. I am aware that using a neural network for a simple regression problem is not the most suitable approach in real life, but the objective of this example is to learn about PyTorch Lightning rather than making the best regression model in the world. 
