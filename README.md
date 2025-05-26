@@ -1,3 +1,7 @@
-# House price prediction using regression and tabular data
+# House Price Prediction
+This repository provides a foundational notebook designed to introduce students to regression models using PyTorch Lightning. The example focuses on a regression problem, utilizing the Boston House Price dataset, which is presented in a CSV format and contains 13 features that are instrumental in predicting the selling price of a house. To maintain clarity and facilitate understanding for those new to machine learning, the model architecture consists of a single fully connected layer. While it is acknowledged that employing a neural network for such a straightforward regression task may not be the most practical approach in real-world scenarios, the primary goal of this exercise is to familiarize students with the PyTorch Lightning framework. This example serves as a stepping stone, allowing you to grasp the fundamental concepts of regression modeling while encouraging exploration and experimentation. As you work through the notebook, I invite you to think critically about the model's design and consider potential enhancements, thereby deepening your understanding of both regression techniques, the PyTorch Lightning library and Machine Learning in general.
 
-This repo contains a starting point notebook for using regression models with PyTorch Lightning. I am aware that using a neural network for a simple regression problem is not the most suitable approach in real life, but the objective of this example is to learn about PyTorch Lightning rather than making the best regression model in the world. 
+## Citation & Star
+If you use my work please cite and star ⭐ this repo. Thanks!
+
+Michielsen, Bas S.H.T. (2025) "House Price Prediction" GitHub: https://github.com/bshtmichielsen/regression_tabular--houses
